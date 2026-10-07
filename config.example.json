@@ -1,0 +1,8 @@
+{
+  "TELEGRAM_TOKEN": "",
+  "SPREADSHEET_ID": "",
+  "SERVICE_ACCOUNT_FILE": "credentials.json",
+  "GCASH_NUMBER": "",
+  "GCASH_QR": "",
+  "INFO_LINK": ""
+}

@@ -1,0 +1,5 @@
+instead of checking every 6am, check every hour
+
+/lock should only lock adding bills command not paid commands
+
+fix picture sending of granular bills
